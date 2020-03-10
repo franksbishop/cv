@@ -1,0 +1,29 @@
+body {
+  background-color: #d4f8e8;
+}
+
+hr {
+  border-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  height: 1px;
+  width: 10%;
+}
+
+a {
+  color: #2a7886;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: #f67575;
+}
+
+h3 {
+  color: #1eb2a6;
+}
